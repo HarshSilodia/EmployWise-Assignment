@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "predeploy": "npm run build",
-  "homepage": "http://harshsilodia.github.io/EmployWise-Assignment",
+  "homepage": "https://harshsilodia.github.io/EmployWise-Assignment",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
