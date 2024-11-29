@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmployWise-Assignment/static/css/main.ce3d6079.css",
+    "main.js": "/EmployWise-Assignment/static/js/main.36cc3c6b.js",
+    "index.html": "/EmployWise-Assignment/index.html",
+    "main.ce3d6079.css.map": "/EmployWise-Assignment/static/css/main.ce3d6079.css.map",
+    "main.36cc3c6b.js.map": "/EmployWise-Assignment/static/js/main.36cc3c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3d6079.css",
+    "static/js/main.36cc3c6b.js"
+  ]
+}
